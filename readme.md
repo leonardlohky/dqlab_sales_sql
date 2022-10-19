@@ -5,7 +5,7 @@ This is a simple SQL project to analyze sales performance of a company. It also 
 ## Clone repository
 Clone the repository to your local machine using
 ```bash
-git clone 
+git clone https://github.com/leonardlohky/dqlab_sales_sql
 ```
 
 ## Data and Importing Data
