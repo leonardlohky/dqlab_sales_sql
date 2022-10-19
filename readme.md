@@ -2,6 +2,12 @@
 
 This is a simple SQL project to analyze sales performance of a company. It also helps beginners that are looking to start their first SQL project as it teaches basic SQL technical concepts such as importing data and SQL coding.
 
+## Clone repository
+Clone the repository to your local machine using
+````bash
+git clone 
+```
+
 ## Data and Importing Data
 The dataset used contains transactions from 2009 to 2012 with a total 5500 data points. The raw data is provided as an Excel file `clean-data.csv`.
 
@@ -29,6 +35,7 @@ Through the data has given, the manager of DQLab Store wants to know :
 5. The number of customers transactions for each year
 6. The number of new customers for each year
 
-## Acknowledgement
-This project is done based on the tutorial by Alex the Analyst, his Youtube tutorial video can be found here:
-https://www.youtube.com/watch?v=qfyynHBFOsM&t=886s
+## Run Scripts
+The SQL script is located in `dqlab_sales_analysis/scripts/scripts.sql`. Open the sql file in your SQL IDE and execute the query lines accordingly.
+
+Another SQL script for Tableau queries is located in `dqlab_sales_analysis/scripts/tableau_queries.sql`. These are executed to produce the necessary Excel files for visualization in Tableau.
