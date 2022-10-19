@@ -4,7 +4,7 @@ This is a simple SQL project to analyze sales performance of a company. It also 
 
 ## Clone repository
 Clone the repository to your local machine using
-````bash
+```bash
 git clone 
 ```
 
